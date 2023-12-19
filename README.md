@@ -1,5 +1,6 @@
-README
-======
+<!-- HTML Image -->
+<img src="https://b.l3n.co/i/3RyaPq.gif" width="250" height="250" alt="Zuvelox Gif">
+
 
 Bug Reports & Feature Requests for the Zuvelox Bot
 ----------------------------------------------------------------
